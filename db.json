@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mohit"
+    },
+    {
+      "name": "Andres Bosco IV",
+      "id": 31
+    },
+    {
+      "name": "Marilyn Paucek",
+      "id": 32
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Elegant Fresh Gloves",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Refined Fresh Fish",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Practical Rubber Mouse",
+      "id": 11
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 5,
+      "url": "https://picsum.photos/seed/jUXy2CF7/640/480",
+      "id": 1
+    }
+  ]
+}

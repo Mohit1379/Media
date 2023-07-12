@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the project directory for accessing database, You can run:
+
+###  `npm run start:server`             
+
 In the project directory, you can run:
 
 ### `npm start`
